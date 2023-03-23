@@ -1,0 +1,54 @@
+nav{
+    
+    text-align: center;
+    color: azure;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: aquamarine;
+    text-align: center;
+    font-family: fantasy;
+    font-size: 700%;
+}
+
+
+#picho{
+   
+    color: azure;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
+
+body{
+    background-image: url(multimedia/Sin\ título-1.png);
+}
+
+#puchito{
+    color: azure;
+}
+
+.barra{
+    display: inline-block;
+    color: azure;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+.barra:hover{
+    text-decoration:underline;
+}
+
+
+#sorete{
+    color: aliceblue;
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+}
